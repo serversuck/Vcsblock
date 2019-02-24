@@ -1,0 +1,5 @@
+{
+    "Vcsblock|block": "工具",
+    "Vcsblock.countBlack|block": "นับเส้นดำ %cnt",
+    "Vcsblock.RecArea|block": "หาพื้นที่สี่เหลี่ยม กว้าง %width * ยาว %long"
+}
